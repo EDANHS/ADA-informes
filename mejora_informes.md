@@ -1,0 +1,1 @@
+Se mejora informe 2 - Mergesort, con las correcciones hechas por el revisor indicando fallos en este - la corrección del informe se encuentra en el mismo repositorio como "corrección_informe2_Mergesort.ipynb"
